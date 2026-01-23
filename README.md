@@ -72,7 +72,7 @@ Finboard is a modern, high-performance financial dashboard application built wit
 
 1. **Clone the repository** (or download source):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Git-punit/Finance-Dashboard.git
    cd finboard-app
    ```
 
