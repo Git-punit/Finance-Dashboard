@@ -2,7 +2,7 @@
 
 Finboard is a modern, high-performance financial dashboard application built with Next.js 15. It allows users to track real-time market data, cryptocurrency prices, and financial trends through a fully customizable, drag-and-drop interface.
 
-![Dashboard Preview](https://placehold.co/800x400/1e293b/4f46e5?text=Finboard+Dashboard+Preview)
+![Dashboard Preview]()
 
 ## 🚀 Features
 
