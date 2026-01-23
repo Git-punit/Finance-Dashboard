@@ -117,4 +117,3 @@ To track Bitcoin Price using Coinbase API:
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests if you have ideas for new widget types or integrations!
-# Finance-Dashboard
