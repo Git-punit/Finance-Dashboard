@@ -89,6 +89,9 @@ Finboard is a modern, high-performance financial dashboard application built wit
 4. **Open in Browser**:
    Visit [http://localhost:3000](http://localhost:3000) to see your dashboard.
 
+5. **Demo**:
+   Visit [https://finance-dashboard-sand-ten.vercel.app/](https://finance-dashboard-sand-ten.vercel.app/)
+
 ---
 
 ## 📖 Usage Guide
